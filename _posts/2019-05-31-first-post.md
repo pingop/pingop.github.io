@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "First post!"
-date: 2019-05-31
+title: First Post
 ---
 
-First Pøst!
+### hej
+
+Hi there!
+test
